@@ -1,0 +1,12 @@
+[
+    {
+        "questionText": "<strong>15<sub>DEC</sub></strong> = <strong>_____<sub>BIN</sub></strong>",
+        "correctAnswers": ["1111"],
+        "number": 1
+    },
+    {
+        "questionText": "<strong>4<sub>DEC</sub></strong> = <strong>_____<sub>BIN</sub></strong>",
+        "correctAnswers": ["100"],
+        "number": 2
+    }
+]
