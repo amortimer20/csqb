@@ -9,7 +9,7 @@
         "answerDetail": "<strong>15<sub>DEC</sub></strong> = <strong>1111<sub>BIN</sub></strong>"
     },
     {
-        "text": "<strong>4<sub>DEC</sub></strong> = <strong>100<sub>BIN</sub></strong>",
+        "text": "<strong>4<sub>DEC</sub></strong> = <strong>_____<sub>BIN</sub></strong>",
         "correctAnswers": [
             "100"
         ],
@@ -18,7 +18,7 @@
         "answerDetail": "<strong>4<sub>DEC</sub></strong> = <strong>100<sub>BIN</sub></strong>"
     },
     {
-        "text": "<strong>8<sub>DEC</sub></strong> = <strong>1000<sub>BIN</sub></strong>",
+        "text": "<strong>8<sub>DEC</sub></strong> = <strong>_____<sub>BIN</sub></strong>",
         "correctAnswers": [
             "1000"
         ],
@@ -27,7 +27,7 @@
         "answerDetail": "<strong>8<sub>DEC</sub></strong> = <strong>1000<sub>BIN</sub></strong>"
     },
     {
-        "text": "<strong>32<sub>DEC</sub></strong> = <strong>100000<sub>BIN</sub></strong>",
+        "text": "<strong>32<sub>DEC</sub></strong> = <strong>_____<sub>BIN</sub></strong>",
         "correctAnswers": [
             "100000"
         ],
