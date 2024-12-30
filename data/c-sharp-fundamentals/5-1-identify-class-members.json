@@ -1,0 +1,24 @@
+[
+    {
+        "text": "Identify the fields/instance variables for the Student class.<br><br><pre><code class='language-cs'>class Student\r\n{\r\n    public int Id;\r\n    public string FirstName;\r\n    public string LastName;\r\n    public double Gpa;\r\n\r\n    public void EnrollInCourse(string courseName) \r\n    { \r\n        // Code to enroll the student in a course \r\n    }\r\n    \r\n    public void DropCourse(string courseName) \r\n    {\r\n        // Code to drop a course\r\n    }\r\n    \r\n    public void UpdateGpa(double newGpa)\r\n    {\r\n        // Code to update the student&#39;s GPA\r\n    } \r\n    \r\n    public string GetFullName()\r\n    {\r\n        return $&quot;{FirstName} {LastName}&quot;; \r\n    }\r\n    \r\n    public bool IsOnHonorRoll()\r\n    { \r\n        return Gpa &gt;= 3.5;     \r\n    }\r\n}\r\n</code></pre>",
+        "number": 1,
+        "questionType": 1,
+        "answerDetail": "<ul><li>Id</li><li>FirstName</li><li>LastName</li><li>Gpa</li></ul>",
+        "answerKeywords": ["Id", "FirstName", "LastName", "Gpa"]
+    },
+    {
+        "text": "Identify the name of the class below.<br><br><pre><code class='language-cs'>public class Dog\r\n{\r\n    public string Name;\r\n    \r\n    public void Bark()\r\n    {\r\n     \r\n    }\r\n}\r\n</code></pre>",
+        "number": 2,
+        "questionType": 2,
+        "choices": ["public", "Dog", "Name", "Bark"],
+        "correctChoice": "Dog",
+        "answerDetail": "The name of the class is Dog. Its instance variable is called Name, and its method is called Bark()."
+    },
+    {
+        "text": "An object is a template for creating classes.",
+        "number": 3,
+        "questionType": 3,
+        "answer": "false",
+        "answerDetail": "A <u>class</u> is a template for creating <u>objects</u>."
+    }
+]
