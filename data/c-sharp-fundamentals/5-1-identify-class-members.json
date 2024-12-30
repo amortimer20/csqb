@@ -11,7 +11,7 @@
         "number": 2,
         "questionType": 2,
         "choices": ["public", "Dog", "Name", "Bark"],
-        "correctChoice": "Dog",
+        "answer": "Dog",
         "answerDetail": "The name of the class is Dog. Its instance variable is called Name, and its method is called Bark()."
     },
     {
